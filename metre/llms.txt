@@ -1,0 +1,35 @@
+# Metre
+
+> Metre is an iOS app (iPhone and iPad, iOS 17 or later) by gokchetech: an AR tape measure that uses the camera to measure length, height, area, volume, angles and whole rooms, with 50 animated how-to demos. It works without LiDAR; LiDAR devices get extra precision and 3D room scan. Processing is on-device: no account, no analytics, no ads, no tracking.
+
+Key facts:
+- Name: Metre (App Store title "Metre: Tape Measure & AR Ruler"). Publisher: gokchetech. Category: Utilities.
+- Platforms: iPhone and iPad, iOS 17.0 or later. 36 languages. Metric and imperial units.
+- App Store: https://apps.apple.com/app/id0000000000
+- Price: free to download. Free with no time limit: length, height (including automatic person height), bubble level and plumb, on-screen ruler, all 50 how-to demos, saving measurements.
+- Metre Pro (in-app purchase): weekly or monthly auto-renewing subscription, each with a 3-day free trial, or a one-time lifetime purchase. Unlocks Smart scan, area, box and volume, angle, circle, door check, whole-home survey, 3D room scan, Will it fit?, windows and curtains, paint and flooring, site calculator, kitchen planner, body measurements, child height tracker, shoe size, ring sizer, measure a photo, and PDF/CSV/DXF/USDZ export.
+- Accuracy: measurements are estimates. In good light, at 1–3 m, with the point at the centre of the screen, AR results are often within 1–2 cm; LiDAR usually does better. A precision ring and per-result precision marks show confidence; Settings has an A4/bank-card accuracy check. Verify critical dimensions with a physical tape.
+- Privacy: camera frames, photos and scans are processed on the device with Apple's ARKit, Vision and RoomPlan and never uploaded. No account, no tracking, no third-party SDKs. Measurements are stored locally on the device. App Store privacy label: Data Not Collected.
+
+## Features
+- AR tape measure: length and height; automatic person height via body detection
+- Smart scan: the camera outlines an object (table, window, door, garment, shoe) and reads width × height
+- Area, box and volume, angle, circle (diameter, circumference, area), door check
+- Whole-home survey room by room: m², m³, net vs total area, bird's-eye floor plan, PDF and DXF (CAD) export
+- 3D room scan with floor plan on LiDAR iPhones and iPads (Apple RoomPlan), USDZ export
+- Will it fit?: true-size virtual box for furniture
+- Calculators: windows and curtains; paint, flooring, wallpaper; concrete (m³ and bags), tiles with adhesive and grout, stairs, slope; kitchen planner (cabinets, filler, worktop, elevation)
+- Body measurements and a client measurement book for tailors, plus size estimate from a photo
+- Child height tracker, shoe size (EU/UK/US), ring sizer (US/UK/EU/JP)
+- On-screen ruler calibrated with a bank card, bubble level and plumb, measure on a photo with a bank card or A4 reference
+- 50 animated how-to demos; widgets; Siri Shortcuts
+
+## Pages
+- [Metre home (English)](https://faruksengul.github.io/github.io/metre/): features, accuracy, privacy, pricing, FAQ
+- [Metre (Türkçe)](https://faruksengul.github.io/github.io/metre/tr/): Turkish landing page
+- [Support](https://faruksengul.github.io/github.io/metre/support.html): accuracy tips, LiDAR, calibration, units, restore and cancel
+- [Privacy Policy](https://faruksengul.github.io/github.io/metre/privacy.html)
+- [Terms of Use](https://faruksengul.github.io/github.io/metre/terms.html)
+
+## Contact
+- Email: sengulfaruk1@gmail.com
