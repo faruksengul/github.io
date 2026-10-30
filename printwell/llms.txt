@@ -1,0 +1,130 @@
+# Printwell
+
+> Printwell is an iOS app (iPhone and iPad, iOS 16.0 or later) by gokchetech that prints to and scans from Wi-Fi printers: HP, Canon, Epson, Brother and thousands of other AirPrint/IPP printers, with no drivers and no account. It shows live ink, paper and jam status, scans with the printer's own scanner or the camera, makes searchable PDFs with on-device OCR, diagnoses connection problems, and includes 52 printable templates. No account, no ads, no analytics, no tracking.
+
+Key facts:
+- Name: Printwell (English App Store title "Printwell: Smart Printer App"). Publisher: gokchetech, an independent developer. Category: Utilities.
+- Platforms: iPhone and iPad, iOS 16.0 or later. 35 languages: English, العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (España), Español (Latinoamérica), Suomi, Français, עברית, हिन्दी, Hrvatski, Magyar, Bahasa Indonesia, Italiano, 日本語, 한국어, Bahasa Melayu, Norsk bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Slovenčina, Svenska, ไทย, Türkçe, Українська, Tiếng Việt, 简体中文, 繁體中文.
+- App Store: https://apps.apple.com/app/id0000000000
+- Price: free to download; using the app requires an auto-renewing subscription: weekly, monthly (with a 3-day free trial for new subscribers) or yearly. Prices vary by country and are shown in local currency before purchase. Cancel anytime in iOS Settings > [your name] > Subscriptions. Refunds are handled by Apple at https://reportaproblem.apple.com.
+- Printers: Wi-Fi printers that support AirPrint or IPP on the same network as the iPhone, or over Wi-Fi Direct. iPhone cannot print over USB; Bluetooth printing is not supported. Printwell is independent and not affiliated with HP, Canon, Epson or Brother. AirPrint is a trademark of Apple Inc.
+- Privacy: documents, photos and scans go from the device straight to the printer over the local network; OCR runs on the device. No account, no analytics or advertising SDKs, no tracking, no data sold. Local network, camera and photos are used only for the features the user chooses.
+
+## Features
+- Print files: PDF, Word, Excel, PowerPoint, Pages, Numbers, Keynote, RTF, HTML, CSV, Markdown, images including HEIC and multi-page TIFF
+- Print photos with layouts: fit, borderless, 2, 4 or 9 per page, posters, passport and ID photos at true size
+- Print web pages (pasted link, laid out for paper) and the clipboard (image, text or link)
+- "Print with Printwell" action in the iOS share sheet (Files, Safari, Mail and other apps)
+- Live printer status reported by the printer: ink or toner levels, paper, jams
+- Scan with the printer's scanner over Wi-Fi (eSCL/AirScan): flatbed glass or document feeder, two-sided, 150-600 dpi, saved as PDF; or scan with the camera
+- On-device OCR: searchable PDFs, copy text from a page, search inside scans
+- Connection doctor ("Fix connection"): checks phone and printer are on the same network and shows both IP addresses, checks Local Network permission, add a printer by IP address, Wi-Fi Direct guidance
+- 52 templates generated on the device in the user's language and paper size (A4 or Letter): CV, invoice, Wi-Fi QR sign, calendars, planners, habit tracker, budget, recipe card, greeting card, award certificate, kids' worksheets (maths, maze, letter tracing, pencil control, dot-to-dot), 15 coloring pages (animals, daily mandala, name coloring), lined and grid paper, labels and signs
+
+## Printer not found: quick fix
+1. Wake the printer: Press any button or tap the power button once, then wait about 20 seconds until the Wi-Fi light stops blinking.
+2. Join the same Wi-Fi: Connect your iPhone to the same network as the printer, not a guest network and not mobile data.
+3. Allow Local Network: In iOS Settings › Privacy & Security › Local Network, turn on Printwell.
+4. Run Fix connection: In Printwell, open Fix connection. It compares the networks of phone and printer and shows both IP addresses.
+5. Add the printer by address: Still missing? Tap Add printer by address and enter the IP address from the printer’s network settings screen.
+
+## Frequently asked questions
+- Q: How do I print from my iPhone to a wireless printer?
+  A: Connect your iPhone to the same Wi-Fi as the printer and open Printwell. It finds the printer by itself. Choose a file, photo or web page, check the preview and tap Print. From other apps, tap Share › Print with Printwell.
+- Q: Does it work with HP, Canon, Epson and Brother printers?
+  A: Yes, and with thousands of other Wi-Fi printers that support AirPrint or IPP, which covers most home and office printers from the last decade. No maker app or driver needed. Printwell is independent and not affiliated with these brands.
+- Q: Why can’t my iPhone find my printer?
+  A: Usually the phone and printer are on different networks (such as a guest network), Local Network access is off, the printer is asleep, or the router keeps devices apart. Fix connection in Printwell checks each cause and lets you add the printer by IP address. See the support page.
+- Q: Can I scan to PDF with my printer’s scanner?
+  A: Yes, if your printer’s scanner works over the network. Printwell uses the glass or the feeder, two-sided, at 150 to 600 dpi, and saves a searchable PDF. No scanner? Use the camera.
+- Q: How do I check my printer’s ink levels?
+  A: Open Printwell: the printer card shows ink or toner, paper and jams live, as reported by the printer. Some printers report only approximate levels, or none with refilled cartridges.
+- Q: Which files can I print?
+  A: PDF, Word, Excel, PowerPoint, Pages, Numbers, Keynote, RTF, HTML, CSV, Markdown and images including HEIC and multi-page TIFF, plus photos, web pages and the clipboard.
+- Q: Do I need a driver, an account or a cable?
+  A: No driver and no account: Printwell talks to the printer over Wi-Fi. iPhone can’t print over a USB cable. No router? Many printers offer Wi-Fi Direct; see support.
+- Q: How much does Printwell cost?
+  A: Printwell is a subscription: weekly, monthly or yearly. The monthly plan starts with a 3-day free trial for new subscribers. Prices vary by country and are shown in your currency before you confirm.
+- Q: How do I cancel my subscription?
+  A: Open iOS Settings › [your name] › Subscriptions › Printwell, or tap Settings › Manage subscription in Printwell. Cancel at least 24 hours before the trial or period ends. Refunds: reportaproblem.apple.com.
+- Q: Which iPhones and iPads are supported?
+  A: Any iPhone or iPad with iOS 16 or later. Printwell speaks 35 languages and follows your device’s language.
+
+## Pages
+- [Printwell — English](https://faruksengul.github.io/github.io/printwell/): Printwell: Printer App for iPhone – Print & Scan over Wi-Fi
+- [Printwell — العربية](https://faruksengul.github.io/github.io/printwell/ar/): Printwell: تطبيق طابعة لـ iPhone – اطبع وامسح ضوئيًا عبر Wi-Fi
+- [Printwell — Català](https://faruksengul.github.io/github.io/printwell/ca/): Printwell: app d’impressora per a iPhone, imprimeix i escaneja
+- [Printwell — Čeština](https://faruksengul.github.io/github.io/printwell/cs/): Printwell: Aplikace pro tiskárnu – tisk a skenování z iPhonu
+- [Printwell — Dansk](https://faruksengul.github.io/github.io/printwell/da/): Printwell – Printer app til iPhone: print og scan via Wi-Fi
+- [Printwell — Deutsch](https://faruksengul.github.io/github.io/printwell/de/): Printwell – Drucker App fürs iPhone: drucken & scannen
+- [Printwell — Ελληνικά](https://faruksengul.github.io/github.io/printwell/el/): Printwell: Εφαρμογή εκτυπωτή – εκτύπωση & σάρωση από iPhone
+- [Printwell — Español (España)](https://faruksengul.github.io/github.io/printwell/es/): Printwell – App de impresora: imprime desde el móvil y escanea
+- [Printwell — Español (Latinoamérica)](https://faruksengul.github.io/github.io/printwell/es-419/): Printwell – App de impresora: imprime desde tu celular y escanea
+- [Printwell — Suomi](https://faruksengul.github.io/github.io/printwell/fi/): Printwell: tulostinsovellus iPhonelle – tulosta, skannaa Wi-Fillä
+- [Printwell — Français](https://faruksengul.github.io/github.io/printwell/fr/): Printwell : appli imprimante iPhone, imprimer et scanner en Wi-Fi
+- [Printwell — עברית](https://faruksengul.github.io/github.io/printwell/he/): Printwell – אפליקציית מדפסת ל-iPhone: הדפסה וסריקה ב-Wi-Fi
+- [Printwell — हिन्दी](https://faruksengul.github.io/github.io/printwell/hi/): Printwell: iPhone के लिए प्रिंटर ऐप – वाई-फ़ाई से प्रिंट और स्कैन
+- [Printwell — Hrvatski](https://faruksengul.github.io/github.io/printwell/hr/): Printwell: Aplikacija za pisač – ispis i skeniranje s iPhonea
+- [Printwell — Magyar](https://faruksengul.github.io/github.io/printwell/hu/): Printwell – nyomtató app iPhone-ra: nyomtatás, szkennelés Wi-Fin
+- [Printwell — Bahasa Indonesia](https://faruksengul.github.io/github.io/printwell/id/): Printwell: Aplikasi Printer iPhone – Cetak & Scan lewat Wi-Fi
+- [Printwell — Italiano](https://faruksengul.github.io/github.io/printwell/it/): Printwell: app stampante per iPhone, stampa e scansiona in Wi-Fi
+- [Printwell — 日本語](https://faruksengul.github.io/github.io/printwell/ja/): Printwell – プリンター アプリ｜iPhoneから印刷・スキャン、Wi-Fi対応
+- [Printwell — 한국어](https://faruksengul.github.io/github.io/printwell/ko/): Printwell – 프린터 앱: iPhone에서 Wi-Fi로 인쇄하고 스캔하기
+- [Printwell — Bahasa Melayu](https://faruksengul.github.io/github.io/printwell/ms/): Printwell: Apl Pencetak untuk iPhone – Cetak & Imbas via Wi-Fi
+- [Printwell — Norsk bokmål](https://faruksengul.github.io/github.io/printwell/nb/): Printwell – skriverapp for iPhone: skriv ut og skann via Wi-Fi
+- [Printwell — Nederlands](https://faruksengul.github.io/github.io/printwell/nl/): Printwell – Printer app voor iPhone: printen en scannen via wifi
+- [Printwell — Polski](https://faruksengul.github.io/github.io/printwell/pl/): Printwell: Drukarka i skaner – drukuj z iPhone’a przez Wi-Fi
+- [Printwell — Português (Brasil)](https://faruksengul.github.io/github.io/printwell/pt-BR/): Printwell – App de impressora: imprima do celular e escaneie
+- [Printwell — Português (Portugal)](https://faruksengul.github.io/github.io/printwell/pt-PT/): Printwell – App de impressora: imprima do telemóvel e digitalize
+- [Printwell — Română](https://faruksengul.github.io/github.io/printwell/ro/): Printwell – aplicație imprimantă: printați și scanați din iPhone
+- [Printwell — Русский](https://faruksengul.github.io/github.io/printwell/ru/): Printwell – приложение для принтера: печать и скан с iPhone
+- [Printwell — Slovenčina](https://faruksengul.github.io/github.io/printwell/sk/): Printwell: Aplikácia pre tlačiareň – tlač a skenovanie z iPhonu
+- [Printwell — Svenska](https://faruksengul.github.io/github.io/printwell/sv/): Printwell – skrivarapp för iPhone: skriv ut och skanna via Wi-Fi
+- [Printwell — ไทย](https://faruksengul.github.io/github.io/printwell/th/): Printwell: แอปปริ้นสำหรับ iPhone – พิมพ์และสแกนผ่าน Wi-Fi
+- [Printwell — Türkçe](https://faruksengul.github.io/github.io/printwell/tr/): Printwell – Yazıcı Uygulaması: iPhone’dan Yazdır ve Tara
+- [Printwell — Українська](https://faruksengul.github.io/github.io/printwell/uk/): Printwell – застосунок для принтера: друк і скан з iPhone
+- [Printwell — Tiếng Việt](https://faruksengul.github.io/github.io/printwell/vi/): Printwell: Ứng dụng máy in cho iPhone – In & quét qua Wi-Fi
+- [Printwell — 简体中文](https://faruksengul.github.io/github.io/printwell/zh-Hans/): Printwell – 打印机 App：iPhone 手机无线打印与扫描，支持 Wi-Fi
+- [Printwell — 繁體中文](https://faruksengul.github.io/github.io/printwell/zh-Hant/): Printwell – 印表機 App：iPhone 手機無線列印與掃描，支援 Wi-Fi
+- Support and troubleshooting, one page per language:
+  - [English](https://faruksengul.github.io/github.io/printwell/support.html)
+  - [العربية](https://faruksengul.github.io/github.io/printwell/ar/support.html)
+  - [Català](https://faruksengul.github.io/github.io/printwell/ca/support.html)
+  - [Čeština](https://faruksengul.github.io/github.io/printwell/cs/support.html)
+  - [Dansk](https://faruksengul.github.io/github.io/printwell/da/support.html)
+  - [Deutsch](https://faruksengul.github.io/github.io/printwell/de/support.html)
+  - [Ελληνικά](https://faruksengul.github.io/github.io/printwell/el/support.html)
+  - [Español (España)](https://faruksengul.github.io/github.io/printwell/es/support.html)
+  - [Español (Latinoamérica)](https://faruksengul.github.io/github.io/printwell/es-419/support.html)
+  - [Suomi](https://faruksengul.github.io/github.io/printwell/fi/support.html)
+  - [Français](https://faruksengul.github.io/github.io/printwell/fr/support.html)
+  - [עברית](https://faruksengul.github.io/github.io/printwell/he/support.html)
+  - [हिन्दी](https://faruksengul.github.io/github.io/printwell/hi/support.html)
+  - [Hrvatski](https://faruksengul.github.io/github.io/printwell/hr/support.html)
+  - [Magyar](https://faruksengul.github.io/github.io/printwell/hu/support.html)
+  - [Bahasa Indonesia](https://faruksengul.github.io/github.io/printwell/id/support.html)
+  - [Italiano](https://faruksengul.github.io/github.io/printwell/it/support.html)
+  - [日本語](https://faruksengul.github.io/github.io/printwell/ja/support.html)
+  - [한국어](https://faruksengul.github.io/github.io/printwell/ko/support.html)
+  - [Bahasa Melayu](https://faruksengul.github.io/github.io/printwell/ms/support.html)
+  - [Norsk bokmål](https://faruksengul.github.io/github.io/printwell/nb/support.html)
+  - [Nederlands](https://faruksengul.github.io/github.io/printwell/nl/support.html)
+  - [Polski](https://faruksengul.github.io/github.io/printwell/pl/support.html)
+  - [Português (Brasil)](https://faruksengul.github.io/github.io/printwell/pt-BR/support.html)
+  - [Português (Portugal)](https://faruksengul.github.io/github.io/printwell/pt-PT/support.html)
+  - [Română](https://faruksengul.github.io/github.io/printwell/ro/support.html)
+  - [Русский](https://faruksengul.github.io/github.io/printwell/ru/support.html)
+  - [Slovenčina](https://faruksengul.github.io/github.io/printwell/sk/support.html)
+  - [Svenska](https://faruksengul.github.io/github.io/printwell/sv/support.html)
+  - [ไทย](https://faruksengul.github.io/github.io/printwell/th/support.html)
+  - [Türkçe](https://faruksengul.github.io/github.io/printwell/tr/support.html)
+  - [Українська](https://faruksengul.github.io/github.io/printwell/uk/support.html)
+  - [Tiếng Việt](https://faruksengul.github.io/github.io/printwell/vi/support.html)
+  - [简体中文](https://faruksengul.github.io/github.io/printwell/zh-Hans/support.html)
+  - [繁體中文](https://faruksengul.github.io/github.io/printwell/zh-Hant/support.html)
+- [Privacy Policy](https://faruksengul.github.io/github.io/printwell/privacy.html) ([Türkçe](https://faruksengul.github.io/github.io/printwell/tr/privacy.html))
+- [Terms of Use](https://faruksengul.github.io/github.io/printwell/terms.html) ([Türkçe](https://faruksengul.github.io/github.io/printwell/tr/terms.html))
+- [Sitemap](https://faruksengul.github.io/github.io/printwell/sitemap.xml)
+
+## Contact
+- Email: sengulfaruk1@gmail.com
