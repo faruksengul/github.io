@@ -5,7 +5,7 @@
 Key facts:
 - Name: Printwell (English App Store title "Printwell: Smart Printer App"). Publisher: gokchetech, an independent developer. Category: Utilities.
 - Platforms: iPhone and iPad, iOS 16.0 or later. 35 languages: English, العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (España), Español (Latinoamérica), Suomi, Français, עברית, हिन्दी, Hrvatski, Magyar, Bahasa Indonesia, Italiano, 日本語, 한국어, Bahasa Melayu, Norsk bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Slovenčina, Svenska, ไทย, Türkçe, Українська, Tiếng Việt, 简体中文, 繁體中文.
-- App Store: https://apps.apple.com/app/id0000000000
+- App Store: https://apps.apple.com/app/id6829027318
 - Price: free to download; using the app requires an auto-renewing subscription: weekly, monthly (with a 3-day free trial for new subscribers) or yearly. Prices vary by country and are shown in local currency before purchase. Cancel anytime in iOS Settings > [your name] > Subscriptions. Refunds are handled by Apple at https://reportaproblem.apple.com.
 - Printers: Wi-Fi printers that support AirPrint or IPP on the same network as the iPhone, or over Wi-Fi Direct. iPhone cannot print over USB; Bluetooth printing is not supported. Printwell is independent and not affiliated with HP, Canon, Epson or Brother. AirPrint is a trademark of Apple Inc.
 - Privacy: documents, photos and scans go from the device straight to the printer over the local network; OCR runs on the device. No account, no analytics or advertising SDKs, no tracking, no data sold. Local network, camera and photos are used only for the features the user chooses.
