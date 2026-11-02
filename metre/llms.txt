@@ -1,32 +1,56 @@
 # Metre
 
-> Metre is an iOS app (iPhone and iPad, iOS 17 or later) by gokchetech: an AR tape measure that uses the camera to measure length, height, area, volume, angles and whole rooms, with 50 animated how-to demos. It works without LiDAR; LiDAR devices get extra precision and 3D room scan. Processing is on-device: no account, no analytics, no ads, no tracking.
+> Metre is an iOS app (iPhone and iPad, iOS 17 or later) by gokchetech: an AR tape measure that uses the camera to measure length, height, area, volume, angles and whole rooms, with 50 animated how-to demos. It works without LiDAR; LiDAR devices find surfaces faster and add 3D room scan. Processing is on-device: no account, no analytics, no ads, no tracking.
 
 Key facts:
 - Name: Metre (App Store title "Metre: Tape Measure & AR Ruler"). Publisher: gokchetech. Category: Utilities.
+- Localized App Store names: English: "Metre: Tape Measure & AR Ruler"; Türkçe: "Metre: Ölçüm & Mezura"; Deutsch: "Metre: Maßband & Lineal"; Français: "Metre: Règle & Niveau à bulle"; Español: "Metre: Cinta Métrica y Regla"; Português (Brasil): "Metre: Trena e Régua Digital"; 日本語: "Metre: AR定規・巻尺・水平器".
 - Platforms: iPhone and iPad, iOS 17.0 or later. 36 languages. Metric and imperial units.
-- App Store: https://apps.apple.com/app/id0000000000
-- Price: free to download. Free with no time limit: length, height (including automatic person height), bubble level and plumb, on-screen ruler, all 50 how-to demos, saving measurements.
-- Metre Pro (in-app purchase): weekly or monthly auto-renewing subscription, each with a 3-day free trial, or a one-time lifetime purchase. Unlocks Smart scan, area, box and volume, angle, circle, door check, whole-home survey, 3D room scan, Will it fit?, windows and curtains, paint and flooring, site calculator, kitchen planner, body measurements, child height tracker, shoe size, ring sizer, measure a photo, and PDF/CSV/DXF/USDZ export.
-- Accuracy: measurements are estimates. In good light, at 1–3 m, with the point at the centre of the screen, AR results are often within 1–2 cm; LiDAR usually does better. A precision ring and per-result precision marks show confidence; Settings has an A4/bank-card accuracy check. Verify critical dimensions with a physical tape.
+- App Store: https://apps.apple.com/app/id6826332249
+- Price: free to download, but Metre needs Metre Pro to measure (there is no free tier; the monthly plan starts with a 3-day free trial).
+- Metre Pro (in-app purchase): weekly or monthly auto-renewing subscription (the monthly plan starts with a 3-day free trial), or a one-time lifetime purchase. Includes every tool: length, height (including automatic person height), bubble level and plumb, on-screen ruler, all 50 how-to demos, saving measurements, Smart scan, area, box and volume, angle, circle, door check, whole-home survey, 3D room scan, Will it fit?, windows and curtains, paint and flooring, site calculator, kitchen planner, body measurements, child height tracker, shoe size, ring sizer, measure a photo, and exports (PDF and CSV; DXF and USDZ only from LiDAR 3D room scans).
+- Accuracy: measurements are estimates, and no camera-only phone is millimetre-exact. Accuracy depends on light, surface, distance and a steady hand; LiDAR devices find surfaces faster and usually more reliably. Every result shows a margin of error (± cm or in) and a quality label (Accurate, Good, Approx.); a precision ring shows confidence, and Settings has an A4 or bank-card accuracy check. Verify critical dimensions with a physical tape.
 - Privacy: camera frames, photos and scans are processed on the device with Apple's ARKit, Vision and RoomPlan and never uploaded. No account, no tracking, no third-party SDKs. Measurements are stored locally on the device. App Store privacy label: Data Not Collected.
 
 ## Features
 - AR tape measure: length and height; automatic person height via body detection
-- Smart scan: the camera outlines an object (table, window, door, garment, shoe) and reads width × height
+- Smart scan: the camera outlines an object (table, window, door, garment, shoe) and reads width × height as an estimate with a margin of error; works without LiDAR
 - Area, box and volume, angle, circle (diameter, circumference, area), door check
-- Whole-home survey room by room: m², m³, net vs total area, bird's-eye floor plan, PDF and DXF (CAD) export
-- 3D room scan with floor plan on LiDAR iPhones and iPads (Apple RoomPlan), USDZ export
+- Whole-home survey room by room: m², m³, net vs total area, bird's-eye floor plan, listing PDF export (the Home survey has no DXF export)
+- 3D room scan with floor plan on LiDAR iPhones and iPads (Apple RoomPlan); saved scans export as USDZ (3D model), DXF (CAD) and PDF
 - Will it fit?: true-size virtual box for furniture
 - Calculators: windows and curtains; paint, flooring, wallpaper; concrete (m³ and bags), tiles with adhesive and grout, stairs, slope; kitchen planner (cabinets, filler, worktop, elevation)
-- Body measurements and a client measurement book for tailors, plus size estimate from a photo
+- Body measurements and a client measurement book for tailors, plus an approximate size estimate from a photo
 - Child height tracker, shoe size (EU/UK/US), ring sizer (US/UK/EU/JP)
 - On-screen ruler calibrated with a bank card, bubble level and plumb, measure on a photo with a bank card or A4 reference
 - 50 animated how-to demos; widgets; Siri Shortcuts
 
+## How-to guides (English, metric and US units)
+- [All how-to guides](https://faruksengul.github.io/github.io/metre/guides/): index
+- [How to measure a door opening with an iPhone](https://faruksengul.github.io/github.io/metre/guides/measure-a-door-opening-with-iphone.html): Clear width and height of a doorway, and what to leave spare.
+- [Will my sofa fit through the door? How to check before you buy](https://faruksengul.github.io/github.io/metre/guides/will-my-sofa-fit-through-the-door.html): The sizes to compare, both orientations and a true-size AR box.
+- [How to measure a room's square footage (m²) with your phone](https://faruksengul.github.io/github.io/metre/guides/measure-room-square-footage-iphone.html): Length times width, odd shapes and a m² to sq ft table.
+- [How to make a floor plan of your home with an iPhone](https://faruksengul.github.io/github.io/metre/guides/make-a-floor-plan-of-your-home-with-iphone.html): Tap the corners room by room and get one plan with the total area.
+- [How to find your ring size at home with a phone or paper](https://faruksengul.github.io/github.io/metre/guides/find-your-ring-size-at-home.html): Inside diameter to US, UK and EU sizes, with a chart.
+- [How to measure a person's height with a phone camera](https://faruksengul.github.io/github.io/metre/guides/measure-a-persons-height-with-a-phone.html): Head to toe in one frame, plus a wall-and-book method and a cm to ft table.
+- [How accurate are phone measuring apps? What to expect and how to test](https://faruksengul.github.io/github.io/metre/guides/phone-measuring-app-accuracy.html): What affects the error, which jobs are fine, and a 20-second test.
+- [How to measure a window for curtains and blinds](https://faruksengul.github.io/github.io/metre/guides/measure-a-window-for-curtains.html): Rod length, curtain width and drop, in cm and inches.
+- [How much paint do I need for a room?](https://faruksengul.github.io/github.io/metre/guides/how-much-paint-for-a-room.html): Wall area, doors and windows, coats and coverage, in litres and gallons.
+- [How much concrete do I need for a slab?](https://faruksengul.github.io/github.io/metre/guides/concrete-slab-volume-calculator.html): Area times thickness in m³ and cubic yards, with a waste allowance.
+- [How to take body measurements for clothes](https://faruksengul.github.io/github.io/metre/guides/measure-your-body-for-clothes.html): Where the tape goes for each measurement, in a tailor's order.
+- [How to measure your foot and find your shoe size at home](https://faruksengul.github.io/github.io/metre/guides/measure-your-feet-and-find-your-shoe-size.html): Heel against the wall, longest toe to the line, then convert.
+- [Which iPhones and iPads have LiDAR, and do you need it to measure?](https://faruksengul.github.io/github.io/metre/guides/does-my-iphone-have-lidar.html): Which devices have it, and what changes without it.
+- [How to use your iPhone as a spirit level](https://faruksengul.github.io/github.io/metre/guides/use-your-iphone-as-a-spirit-level.html): Lay it flat or hold the edge, then zero it on a known flat surface.
+
 ## Pages
-- [Metre home (English)](https://faruksengul.github.io/github.io/metre/): features, accuracy, privacy, pricing, FAQ
-- [Metre (Türkçe)](https://faruksengul.github.io/github.io/metre/tr/): Turkish landing page
+- [Metre (English)](https://faruksengul.github.io/github.io/metre/): features, accuracy, privacy, pricing, FAQ
+- [Metre (Türkçe)](https://faruksengul.github.io/github.io/metre/tr/): landing page and FAQ in Türkçe
+- [Metre (Deutsch)](https://faruksengul.github.io/github.io/metre/de/): landing page and FAQ in Deutsch
+- [Metre (Français)](https://faruksengul.github.io/github.io/metre/fr/): landing page and FAQ in Français
+- [Metre (Español)](https://faruksengul.github.io/github.io/metre/es/): landing page and FAQ in Español
+- [Metre (Português (Brasil))](https://faruksengul.github.io/github.io/metre/pt-br/): landing page and FAQ in Português (Brasil)
+- [Metre (日本語)](https://faruksengul.github.io/github.io/metre/ja/): landing page and FAQ in 日本語
+- [Full text of the how-to guides](https://faruksengul.github.io/github.io/metre/llms-full.txt): every guide in one plain-text file
 - [Support](https://faruksengul.github.io/github.io/metre/support.html): accuracy tips, LiDAR, calibration, units, restore and cancel
 - [Privacy Policy](https://faruksengul.github.io/github.io/metre/privacy.html)
 - [Terms of Use](https://faruksengul.github.io/github.io/metre/terms.html)

@@ -1,0 +1,598 @@
+# Metre: how-to guides (full text)
+
+> Plain-text copy of the guides at https://faruksengul.github.io/github.io/metre/guides/, for language models and readers who want everything in one file. Metre is an AR tape measure for iPhone and iPad (iOS 17 or later). Phone measurements are estimates: confirm critical dimensions with a physical tape.
+
+
+## How to measure a door opening with an iPhone
+URL: https://faruksengul.github.io/github.io/metre/guides/measure-a-door-opening-with-iphone.html
+Updated: 2026-10-26
+
+Short answer: Measure the clear opening: the narrowest width between the door stops and the height from the floor to the underside of the top of the frame. Take the width near the floor, in the middle and at the top, and use the smallest number. Swing the door fully open first: the leaf and hinges usually take a few centimetres (an inch or more) off the width an object can use.
+
+What you need:
+- An iPhone or iPad with iOS 17 or later (LiDAR not needed), or a tape measure
+- Light in the doorway; open the door fully
+- A pen to write down three widths and one height
+
+Steps:
+1. Measure inside the frame, not the wall opening: Put the start of the tape (or your first AR point) on the inside face of one jamb and the end on the inside face of the other. Trim, plaster and door stops make the wall opening wider than the space you can actually use.
+2. Take the width at three heights: Measure near the floor, at hip height and near the top. Old houses are rarely square, and the smallest of the three is the width that counts.
+3. Measure the height to the underside of the frame: Measure from the floor (or the top of a threshold) to the underside of the top of the frame. If the door opens into the room, check that nothing hangs below the frame.
+4. Allow for the door leaf and the hinges: A door swung open to 90° leaves a strip of door and hinge in the opening. If the leaf can be lifted off its hinges, measure again with it removed and note both numbers.
+5. Compare with the item and keep a margin: The two smallest dimensions of the item have to fit inside the opening. Keep at least 2 to 3 cm (about 1 in) spare for your hands and for the walls.
+
+Typical door sizes (for a sense of scale):
+Interior doors usually have a leaf about 60 to 90 cm (24 to 36 in) wide and 198 to 203 cm (78 to 80 in) tall, but older buildings and custom doors vary a lot. Always measure yours.
+
+Also check the way in:
+A doorway is only one pinch point. Measure the narrowest hall, any tight turn, the stairs and the lift as well, and compare the item against the smallest of them.
+
+Do it with Metre: Door check (Metre Pro)
+- Open Door check and sweep the phone over the floor until dots appear.
+- Tap + on the floor against the inside of the left jamb, then against the inside of the right jamb.
+- Raise the ring to the top of the opening and tap +.
+- Tap Will it pass through?, type the furniture size and read the answer. If it only passes tilted, Metre shows the angle.
+Plain white door? Tap the floor, not the door. You can save your doors and check new furniture against all of them later. The Length tool measures the width and height of any doorway.
+
+How accurate is this? A camera measurement of a doorway is an estimate. Metre shows a margin of error (± cm or in) and a quality label next to the result. If the item fits by less than your margin, or by less than 2 to 3 cm (1 in), measure again with a physical tape before you order or carry anything.
+
+Questions:
+Q: Do I measure the door or the frame?
+A: Measure the clear opening inside the frame with the door open. The door leaf, hinges and stops reduce the space an object can use, so the frame opening alone can be too generous.
+Q: How wide does a door need to be for furniture?
+A: There is no single number. The item has to pass with its two smallest dimensions, either upright or turned on its end, and you need a little spare room. Measure the item and the doorway rather than relying on a typical width.
+Q: Can I measure a door with an iPhone that has no LiDAR?
+A: Yes. Door check works on any iPhone or iPad with iOS 17 or later. A LiDAR scanner, on Pro models, finds surfaces faster and usually more reliably.
+Q: Does Door check need Metre Pro?
+A: Yes. Metre needs Metre Pro to measure, and Door check is part of it. The monthly plan starts with a 3-day free trial; a weekly plan and a one-time lifetime purchase are also available.
+
+## Will my sofa fit through the door? How to check before you buy
+URL: https://faruksengul.github.io/github.io/metre/guides/will-my-sofa-fit-through-the-door.html
+Updated: 2026-10-26
+
+Short answer: A sofa gets through a door when its two smallest dimensions (usually depth and height) fit inside the clear opening, upright or turned on its end, with 2 to 3 cm (about 1 in) to spare. Then check the hall, the stairs and the final spot. Take the numbers from the shop listing, measure the doorway yourself, and compare.
+
+What you need:
+- Width, depth and height of the item (from the shop listing or a tape)
+- The clear width and height of every doorway on the route
+- The floor space where it will stand
+
+Steps:
+1. Write down the item's three sizes: Length, depth and height, including the arms, legs and any cushions that cannot be removed. Listings often give the overall size, which is the one you need.
+2. Measure the narrowest doorway on the route: Measure the clear opening inside the frame with the door open: the smallest of three widths, and the height to the underside of the frame. Do the same for the front door, the hall, the stairwell and any lift.
+3. Try both orientations: Compare the item's two smallest sizes with the opening's width and height, upright and then on its end. If one orientation fits with 2 to 3 cm to spare, the doorway is fine. Removing legs, arms or the door leaf often gains the last centimetres.
+4. Check turns and stairs: A long item needs room to pivot. Landings, low ceilings over stairs and tight corners stop more furniture than doors do.
+5. Place a true-size box where it will stand: Type the width, depth and height into an AR box and put it on the floor. Walk round it and leave at least a stride to walk past it.
+
+A quick way to think about it:
+Picture the item's cross-section, the shape you see when you look at it from the end. That rectangle (for a sofa: depth by height) is what has to pass through the doorway rectangle. The length only matters at turns.
+
+Do it with Metre: Will it fit? and Door check (Metre Pro)
+- Use Door check to measure the doorway, then Will it pass through? with the furniture size.
+- Open Will it fit?, type the furniture's width, depth and height from the shop listing, point at the floor where it would stand and tap +.
+- Walk round the box, drag it to move it, use the rotate button to try it at an angle and check the gap to the walls.
+Save scanned doors and Metre can tell you, for each saved door, whether new furniture passes. Metre does not know about stairs or lifts, so measure those with a tape.
+
+How accurate is this? Phone measurements are estimates and every Metre result carries a margin of error. When the fit is tight, treat the answer as a prompt to measure again with a tape rather than a guarantee, especially before an order you cannot return.
+
+Questions:
+Q: What is the rule for getting a sofa through a door?
+A: The sofa's two smallest dimensions must fit inside the clear opening of the door, in at least one orientation, with a small margin. Length matters only when the item has to turn.
+Q: How much space should I leave around a sofa?
+A: Leave at least a stride, roughly 60 to 75 cm (24 to 30 in), where people walk past it, and enough room for doors and drawers to open.
+Q: Can I check this in a shop before I buy?
+A: Yes. Type the size from the label or listing into Will it fit? and place the box in your room, or check it against your saved doors.
+Q: Do I need a LiDAR iPhone?
+A: No. Every tool except 3D room scan works on any iPhone or iPad with iOS 17 or later.
+
+## How to measure a room's square footage (m²) with your phone
+URL: https://faruksengul.github.io/github.io/metre/guides/measure-room-square-footage-iphone.html
+Updated: 2026-10-26
+
+Short answer: For a rectangular room, area = length × width. Example: 4.2 m × 3.6 m = 15.12 m², which is 162.8 sq ft (13 ft 9 in × 11 ft 10 in gives the same). For an L-shaped room, split it into rectangles and add them. One square metre is 10.764 square feet.
+
+What you need:
+- A phone or a tape measure
+- The room cleared enough to see the corners where the walls meet the floor
+
+Steps:
+1. Measure along the floor: Measure each wall where it meets the floor. Corners are easier to find there than on the ceiling, and furniture seldom hides them.
+2. Multiply length by width: Convert inches to feet first: 13 ft 9 in is 13.75 ft, 11 ft 10 in is 11.83 ft, and 13.75 × 11.83 is 162.7 sq ft.
+3. Split odd shapes: For an L-shaped room, draw two or three rectangles, measure each one and add the areas. Do not count the same square twice where they meet.
+4. Decide what counts: Net area is the floor you can walk on. Total area adds walls and anything else you choose to include. Balconies, terraces, gardens and garages are normally left out of the living area.
+5. Write the total in both units if you need them: Multiply square metres by 10.764 for square feet, or multiply square feet by 0.0929 for square metres.
+
+Square metres to square feet:
+m² | sq ft |
+10 | 107.6 |
+12 | 129.2 |
+15 | 161.5 |
+20 | 215.3 |
+25 | 269.1 |
+50 | 538.2 |
+100 | 1,076.4 |
+
+Square footage for flooring, paint or air conditioning:
+For flooring, use the floor area and add 5 to 10 % for cuts and waste. For paint, you need the wall area (perimeter × height), not the floor area. For air conditioning and heating, the floor area and ceiling height (volume) are what the sizing guides ask for.
+
+Is it an official figure?:
+No. A measured floor area is an estimate for planning, buying flooring or paint, or comparing homes. Contracts, rent and sales have their own rules for what counts, so confirm those with a tape and the official method.
+
+Do it with Metre: Home survey (Metre Pro)
+- Open Home survey, add a room and sweep the phone slowly over the floor.
+- Aim at each corner where the walls meet the floor and tap +. Furniture hiding a corner? Aim where the two walls would meet.
+- Tap Done, then Use this room, and name the room. Metre shows the area in m² or sq ft.
+Home survey keeps net and total area apart and leaves balconies, terraces, gardens and garages out of the net area by default. The Length tool measures each wall if you would rather multiply yourself.
+
+How accurate is this? Measuring a room by its corners is an estimate: the result depends on light, how well each corner is placed and how steadily you hold the phone. Metre shows a margin of error and a quality label, and a green precision ring tells you before you tap whether a point is reliable. Confirm the areas with a tape before anything binding.
+
+Questions:
+Q: How do I calculate the square footage of a room?
+A: Multiply the length by the width in feet. For feet and inches, convert the inches to a fraction of a foot first. For L-shaped rooms, add the areas of the rectangles.
+Q: How do I convert m² to sq ft?
+A: Multiply by 10.764. A 15 m² room is 161.5 sq ft. To go the other way, multiply square feet by 0.0929.
+Q: Can an iPhone measure a room without LiDAR?
+A: Yes. Home survey works on any iPhone or iPad with iOS 17 or later. Only the automatic 3D room scan needs a LiDAR scanner.
+Q: Does Home survey need Metre Pro?
+A: Yes. Home survey is part of Metre Pro, which also includes the Length tool for single walls. The monthly plan starts with a 3-day free trial.
+
+## How to make a floor plan of your home with an iPhone
+URL: https://faruksengul.github.io/github.io/metre/guides/make-a-floor-plan-of-your-home-with-iphone.html
+Updated: 2026-10-26
+
+Short answer: Walk from room to room, tap each floor corner where the walls meet the floor, and let the app join the rooms into one bird's-eye plan with the area of each room and the total. It works on any iPhone or iPad with iOS 17 or later. On a LiDAR model, a 3D room scan can draw walls, doors and windows automatically.
+
+What you need:
+- An iPhone or iPad with iOS 17 or later
+- Doors open and the lights on
+- 10 to 15 minutes for an average flat
+
+Steps:
+1. Start one survey for the whole home: Create a survey so every room joins the same plan. Keep the camera running between rooms, so the rooms line up.
+2. Tap the floor corners of each room: Stand inside the room, sweep the phone slowly over the floor and tap each corner where the walls meet the floor. Finish the room and name it.
+3. Walk on to the next room: Move through the doorway without closing the camera and repeat. Corners hidden behind furniture: aim where the two walls would meet.
+4. Finish and check the plan: The plan shows every room with its area and the total. Compare a room or two with a tape before you rely on the numbers.
+5. Share it: Export the listing PDF: the totals, one row per room and a page with the plan. Exports are part of Metre Pro. DXF for CAD and USDZ come only from a saved 3D room scan on a LiDAR iPhone or iPad.
+
+With or without LiDAR:
+Tapping corners works on any iPhone or iPad with iOS 17 or later. iPhones and iPads with a LiDAR scanner (Pro models) can also run a 3D room scan that outlines walls, doors and windows automatically. A saved scan exports as a USDZ model, a DXF drawing for CAD or a PDF. If your device has no LiDAR, the corner method gives you the same plan.
+
+What is left out:
+Balconies, terraces, gardens and garages are left out of the net area by default. Net and total area are kept apart, so you can quote either.
+
+Do it with Metre: Home survey and 3D room scan (Metre Pro)
+- In Home survey, create a survey and tap Walk the whole home.
+- In each room tap the floor corners, tap Done, then Save room & continue.
+- Walk to the next room without closing the camera and do the same. Tap Finish to see every room on one plan with the total area.
+3D room scan is available on LiDAR iPhones and iPads only. Home survey is part of Metre Pro; the Length tool can measure single walls.
+
+How accurate is this? A floor plan made from a phone is an estimate for planning, such as flooring, paint and furniture, and is not an official survey. Metre shows a margin of error and a quality label for each measurement. Confirm any area you will sign for with a tape.
+
+Questions:
+Q: Can I make a floor plan with my phone?
+A: Yes. Tap the corners of each room and the app draws a bird's-eye plan. No LiDAR is needed for that method.
+Q: Does it make a floor plan from photos?
+A: No. Metre builds the plan from corners you tap with the live camera, or from a 3D room scan on LiDAR devices. It does not rebuild a plan from stored photos.
+Q: What can I export?
+A: The Home survey exports a PDF listing with the totals, one row per room and a page with the plan. DXF (for CAD) and USDZ come only from a saved 3D room scan, which needs a LiDAR iPhone or iPad. All exports are part of Metre Pro.
+Q: Is the floor area official?
+A: No. It is an estimate for planning. Contracts and sales follow their own measurement rules.
+
+## How to find your ring size at home with a phone or paper
+URL: https://faruksengul.github.io/github.io/metre/guides/find-your-ring-size-at-home.html
+Updated: 2026-10-26
+
+Short answer: The most reliable way is to measure the inside diameter of a ring that already fits. A US size 7 has an inside diameter of about 17.3 mm (0.68 in) and an inside circumference of about 54.4 mm, which is UK N½ and about EU 54. On a phone, calibrate the screen with a bank card first, because screens differ.
+
+What you need:
+- A ring that fits the same finger well, or a strip of paper and a ruler
+- A bank card (85.6 mm wide) if you use an on-screen sizer
+- The evening, when fingers are at their largest
+
+Steps:
+1. Measure a ring that fits: Measure across the inside of the ring, edge to edge, in millimetres. Do not measure the outside. Use a ring that fits the same finger and sits over the knuckle without being loose.
+2. Or measure your finger with paper: Cut a strip of paper, wrap it round the base of the finger, mark where it overlaps and measure the length in millimetres. That is the circumference. Divide by 3.14 for the diameter.
+3. Convert with the chart below: Match the diameter or circumference to the nearest size. Between two sizes, choose the larger, especially for wide bands.
+4. Measure at the right time: Fingers are larger in the evening and when warm, and smaller when cold. Measure at room temperature and repeat on a second day.
+5. On a screen, calibrate first: Place a standard bank card on the screen and match its width, so the circle shows true size. Then lay the ring on the circle and match the inside edge.
+
+Ring size chart:
+US | UK | Inside diameter | Inside circumference (≈ EU) |
+5 | J½ | 15.7 mm (0.62 in) | 49.3 mm |
+6 | L½ | 16.5 mm (0.65 in) | 51.9 mm |
+7 | N½ | 17.3 mm (0.68 in) | 54.4 mm |
+8 | P½ | 18.1 mm (0.71 in) | 57.0 mm |
+9 | R½ | 19.0 mm (0.75 in) | 59.5 mm |
+10 | T½ | 19.8 mm (0.78 in) | 62.1 mm |
+
+Charts differ slightly between brands and countries. Treat this one as a guide and check the maker's chart when you order a ring.
+
+Do it with Metre: Ring sizer (Metre Pro)
+- Calibrate once with a bank card in Settings → Calibrate screen with a bank card.
+- Open Ring sizer and put a ring that fits on the circle.
+- Use the slider or − and + until the circle just touches the inside edge.
+- Read the US, UK, EU and JP sizes and save them.
+Measure the inside of the ring, not the outside. Ring sizer is part of Metre Pro.
+
+How accurate is this? An on-screen ring sizer is only as good as the screen calibration and how carefully you match the edge. A difference of half a millimetre can be half a size. Use it to get close, and confirm with a jeweller's sizer for a ring that is a gift or hard to resize.
+
+Questions:
+Q: How do I measure my ring size at home?
+A: Measure the inside diameter of a ring that fits, or wrap paper round your finger and measure the length. Then convert with a size chart.
+Q: What size is a 17.3 mm ring?
+A: An inside diameter of 17.3 mm is about US 7, UK N½ and EU 54.
+Q: Should I size up for a wide band?
+A: Often yes. Wide bands fit more tightly, so if you are between two sizes, choose the larger one.
+Q: Is a phone ring sizer accurate?
+A: It can get you close if the screen is calibrated, but it is an estimate. A jeweller's sizer is the reference for anything important.
+
+## How to measure a person's height with a phone camera
+URL: https://faruksengul.github.io/github.io/metre/guides/measure-a-persons-height-with-a-phone.html
+Updated: 2026-10-26
+
+Short answer: Stand the person straight, shoes off, two or three steps from the phone, and frame them head to toe. Metre outlines the person and reads their height. For a tape-only check, stand against a wall, lay a book flat on the head, mark the wall and measure from the floor to the mark.
+
+What you need:
+- An iPhone or iPad with iOS 17 or later
+- A plain wall or background and a flat floor
+- Shoes off, hair flat
+
+Steps:
+1. Set up the shot: Pick a plain background and a flat floor. Have the person stand straight with heels together and look straight ahead, shoes off.
+2. Step back two or three paces: Hold the phone steady at chest height and keep the whole body in the frame, from the feet to the top of the head.
+3. Let the app find the person: Metre outlines the person and reads the height. Tap Use height to keep it.
+4. Double-check with a tape if it matters: For a medical form, a school or a costume, confirm with a wall mark and a tape.
+5. For children, repeat the same way: Use the same wall and the same time of day, since children are slightly taller in the morning. The child height tracker, part of Metre Pro, saves each result with a date and draws a growth curve over the years.
+
+No app: the wall and book method:
+Stand barefoot with your back to a wall and heels together, looking straight ahead. Lay a book flat on the top of the head, mark the wall under it, step away and measure from the floor to the mark.
+
+Centimetres to feet and inches:
+cm | ft and in |
+150 | 4 ft 11 in |
+155 | 5 ft 1 in |
+160 | 5 ft 3 in |
+165 | 5 ft 5 in |
+170 | 5 ft 7 in |
+175 | 5 ft 9 in |
+180 | 5 ft 11 in |
+185 | 6 ft 1 in |
+190 | 6 ft 3 in |
+
+One inch is 2.54 cm. Values are rounded to the nearest inch.
+
+Do it with Metre: Height (Metre Pro)
+- Open Height and stand two or three steps away.
+- Frame the whole person, head to toe. Metre outlines the person and reads the height.
+- Tap Use height to keep it. With Metre Pro, the child height tracker also saves each result with a date.
+Height, including automatic person height, is part of Metre Pro. The same tool measures doors, shelves and ceilings from two points. Shoes off, standing straight, against a plain background gives the best result.
+
+How accurate is this? Automatic height from a camera is an estimate. Posture, hair, shoes, the angle of the phone and how much of the body is in the frame all change the number. Metre shows a margin of error and a quality label. For anything critical, double-check with a tape.
+
+Questions:
+Q: Can an iPhone measure a person's height?
+A: Yes. Frame the person head to toe from two or three steps away and the app outlines them and reads the height. Confirm with a tape for anything critical.
+Q: Does it need Metre Pro?
+A: Yes. Metre needs Metre Pro to measure, including the Height tool. The monthly plan starts with a 3-day free trial; a weekly plan and a one-time lifetime purchase are also available.
+Q: How do I track a child's growth?
+A: Measure against the same wall at the same time of day every few months and save each result. The child height tracker in Metre Pro keeps a dated history and draws a growth curve on your device.
+Q: Does it need LiDAR?
+A: No. Every tool except 3D room scan works without LiDAR.
+
+## How accurate are phone measuring apps? What to expect and how to test
+URL: https://faruksengul.github.io/github.io/metre/guides/phone-measuring-app-accuracy.html
+Updated: 2026-10-26
+
+Short answer: Measuring apps give estimates. Light, surface texture, distance and a steady hand decide how close a result gets, and an iPhone or iPad with LiDAR usually does better than one with a camera alone. Treat results as good for planning and shopping, and confirm with a physical tape before you cut, order glass or sign anything.
+
+What you need:
+- Any phone measuring app
+- An A4 or US Letter sheet, or a bank card, to test your own phone
+- The room where you measure most, in the light you usually have
+
+Steps:
+1. Know what the phone is doing: Apple's ARKit combines the camera image with the motion sensors to find floors, walls and tables and to place points between them. A LiDAR scanner, on Pro iPhones and iPad Pros, adds a depth sensor; Apple states that it works at distances up to about 5 m (16 ft).
+2. Know what makes it worse: Dim light, glass, mirrors, plain white walls and black fabric confuse the camera. Errors also grow with distance, and near the edge of the frame.
+3. Test your own phone: Lay an A4 sheet (297 × 210 mm) or a US Letter sheet (11 × 8.5 in), or a bank card (85.6 × 54 mm), flat on a table. Measure the long edge corner to corner and compare it with the real size.
+4. Decide the tolerance before you measure: A sofa or a rug can forgive a centimetre or two. A worktop cut, a glass order or a fitted wardrobe cannot.
+5. Re-measure the critical dimension: Measure the one number that decides the purchase twice, then confirm it with a tape.
+
+Fine for planning, not for cutting:
+Usually fine with an estimate | Confirm with a tape first |
+Will the sofa fit the wall? | Cutting a worktop or flooring |
+Rough room area for paint or flooring quantities | Ordering glass, blinds or made-to-measure curtains |
+Checking a doorway before furniture arrives | Anything fitted into a tight opening |
+Sizing a child's height over time | Medical or legal forms |
+
+What a margin of error tells you:
+A result such as 120 cm ± 2 cm says the true value is probably between 118 and 122 cm. If the margin is bigger than the room you have to spare, measure again with a tape.
+
+Do it with Metre: Accuracy check, margin of error and quality label
+- Open Settings → Check my phone's accuracy and lay an A4 or Letter sheet flat.
+- Measure its long edge, corner to corner.
+- Metre shows how far off your phone is in this light. Within 5 mm is excellent. More than 1.5 cm off: add light and hold the phone steadier.
+Every result in Metre shows a margin of error (± cm or in) and a quality label (Accurate, Good or Approx.), and a precision ring at the centre of the screen turns green when a point is reliable. Metre does not promise millimetre accuracy: no camera-only phone can.
+
+How accurate is this? This page describes the general limits of phone measuring. Metre's own accuracy depends on the same things, so it shows the margin of error and quality label on each result instead of a single promise.
+
+Questions:
+Q: Are measuring apps accurate?
+A: They give estimates. With good light, a textured surface and a steady hand they are useful for planning, but they are not a replacement for a tape when the number has to be exact.
+Q: Is a LiDAR iPhone more accurate?
+A: A LiDAR scanner finds surfaces faster and usually more reliably, especially in dim light, but results are still estimates.
+Q: How can I test my phone?
+A: Measure a sheet of A4 or Letter paper or a bank card, whose real size you know, and compare. Metre's accuracy check does this in about 20 seconds.
+Q: Can I use a phone measurement to cut materials?
+A: Use it to plan and to estimate quantities. Confirm the critical dimensions with a physical tape before you cut.
+
+## How to measure a window for curtains and blinds
+URL: https://faruksengul.github.io/github.io/metre/guides/measure-a-window-for-curtains.html
+Updated: 2026-10-26
+
+Short answer: Rod length = window width + about 15 cm (6 in) on each side. Fix the rod 10 to 15 cm (4 to 6 in) above the window. Curtain width = rod length × fullness, about 2× for gathered curtains and 1.5× for a lighter look. The drop runs from the rod to the sill, below the sill or to the floor, minus about 1 cm so the hem does not drag.
+
+What you need:
+- A phone or a tape measure
+- A step ladder for the top of the window
+
+Steps:
+1. Measure the window: Measure the width of the frame (or of the recess if the curtain hangs inside it) and the height.
+2. Work out the rod length: Add an overhang on each side, commonly 15 cm (6 in), so open curtains do not cover the glass.
+3. Choose the rod height: Fix the rod about 10 to 15 cm (4 to 6 in) above the window, or closer to the ceiling to make the room feel taller.
+4. Pick the fullness and work out the width: Multiply the rod length by 2 for gathered curtains or by 1.5 for a lighter look. That is the total width of fabric across all panels.
+5. Measure the drop: Measure from the rod to the sill, below the sill, or to the floor. For floor-length curtains, take about 1 cm off so the hem does not drag.
+
+Blinds inside the recess:
+Measure the width of the recess at the top, in the middle and at the bottom, and use the smallest. Measure the height on the left, in the middle and on the right, and use the smallest.
+
+Example:
+A window 120 cm (47 in) wide: rod length 120 + 15 + 15 = 150 cm (59 in); curtain width at 2× fullness = 300 cm (118 in); fix the rod at about 12 cm (5 in) above the frame.
+
+Do it with Metre: Windows & curtains (Metre Pro)
+- In Windows & curtains, tap Measure the window.
+- Tap the frame's four corners and Done (or Use this rectangle), then Use this measurement.
+- For floor-length curtains, measure from the floor up to the bottom of the frame.
+- Choose the fullness. Metre gives the rod length, curtain width and fabric.
+Let the rod reach a little past each side so open curtains do not cover the glass. Windows & curtains is part of Metre Pro; the Length tool measures the window.
+
+How accurate is this? Phone measurements are estimates, and made-to-measure curtains and blinds are hard to return. Measure the width and drop with a tape before you order.
+
+Questions:
+Q: How much wider than the window should a curtain rod be?
+A: Commonly about 15 cm (6 in) past each side, so that open curtains clear the glass.
+Q: How full should curtains be?
+A: About 2 times the rod length for gathered curtains, or about 1.5 times for a lighter look.
+Q: How long should curtains be?
+A: Floor-length curtains stop about 1 cm above the floor so the hem does not drag. Sill-length curtains stop at or just below the sill.
+
+## How much paint do I need for a room?
+URL: https://faruksengul.github.io/github.io/metre/guides/how-much-paint-for-a-room.html
+Updated: 2026-10-26
+
+Short answer: Paint = (room perimeter × wall height − doors and windows) × coats ÷ coverage. Example: a 4.2 m × 3.6 m room with 2.5 m walls has 15.6 m perimeter, 39 m² of wall, about 36 m² after a door and a window, 72 m² for two coats, which is about 7.2 L at 10 m² per litre. Always check the coverage printed on the tin.
+
+What you need:
+- Room length, width and wall height
+- The size of each door and window
+- The coverage on the tin (m² per litre, or sq ft per gallon) and the number of coats
+
+Steps:
+1. Find the wall area: Add the room's length and width, double it for the perimeter, and multiply by the wall height.
+2. Subtract the openings: Take away doors and windows. A door is roughly 1.6 to 2 m² (17 to 21 sq ft), and a medium window 1.2 to 1.5 m² (13 to 16 sq ft). Measure yours for a better number.
+3. Multiply by the number of coats: Two coats is typical for a colour change. One coat can do for the same colour over a sound surface.
+4. Divide by the coverage: Typical emulsion covers about 10 m² per litre per coat (about 350 to 400 sq ft per US gallon). The tin gives the real figure.
+5. Add the ceiling and a little extra: Work out the ceiling as length × width and add it if you are painting it. Round up to the next tin size and keep a little for touch-ups.
+
+Worked example (US units):
+A 14 ft × 12 ft room with 8 ft walls: perimeter 52 ft, wall area 416 sq ft. Minus one door (about 21 sq ft) and two windows (about 30 sq ft) leaves about 365 sq ft. Two coats is about 730 sq ft. At 350 to 400 sq ft per gallon that is 1.8 to 2.1 gallons, so buy 2 gallons and check whether you want a touch-up quart.
+
+Prime or not?:
+New plaster, stains and strong colour changes usually need a primer or an extra coat. Check the tin for the coverage on your surface, which may be lower on rough or absorbent walls.
+
+Do it with Metre: Paint, flooring and wallpaper (Metre Pro)
+- Add the room in Home survey by tapping its floor corners and measure the wall height with the Height tool.
+- Open the paint calculator, which subtracts doors and windows from the wall area.
+- Enter the coats and the coverage from the tin to get the quantity.
+Paint, flooring and wallpaper quantities are part of Metre Pro. The formula above works with any tape.
+
+How accurate is this? Paint quantities are estimates. Surface, colour, application method and the coverage on the tin all change how much you use, so round up and keep the tin for touch-ups.
+
+Questions:
+Q: How do I calculate paint for a room?
+A: Perimeter × height gives the wall area. Subtract doors and windows, multiply by the number of coats, and divide by the coverage on the tin.
+Q: How many square metres does a litre of paint cover?
+A: Often about 10 m² per coat, but products range widely. Use the figure printed on the tin.
+Q: How many coats do I need?
+A: Two coats is typical, especially for a colour change or over a dark colour.
+Q: How much paint for a 12 ft × 12 ft room?
+A: With 8 ft walls the perimeter is 48 ft and the wall area 384 sq ft. Minus a door (about 21 sq ft) and two windows (about 30 sq ft) that leaves about 333 sq ft; two coats is about 666 sq ft. At 350 to 400 sq ft per gallon that is 1.7 to 1.9 gallons, so buy 2 gallons.
+
+## How much concrete do I need for a slab?
+URL: https://faruksengul.github.io/github.io/metre/guides/concrete-slab-volume-calculator.html
+Updated: 2026-10-26
+
+Short answer: Volume = length × width × thickness. Example: 4 m × 3 m × 0.10 m = 1.2 m³. In US units, 13 ft × 10 ft × 4 in (0.333 ft) = 43.3 cu ft, which is 1.6 cubic yards. Add 5 to 10 % for waste and uneven ground. One cubic metre is 1.308 cubic yards, and one cubic yard is 27 cubic feet.
+
+What you need:
+- Length and width of the slab
+- The thickness you will pour
+- The yield printed on the bag, if you use bagged mix
+
+Steps:
+1. Measure the length and width: Measure the area to be poured. For an L-shape, split it into rectangles and add the volumes.
+2. Decide the thickness: Common slabs for paths and patios are about 100 mm (4 in). Heavier loads need more, and your design or local rules decide the number.
+3. Convert to the same unit: Work in metres (thickness in metres) or in feet (thickness in feet), then multiply: length × width × thickness.
+4. Add a waste allowance: Add 5 to 10 % for spillage, uneven ground and a slightly deeper pour.
+5. Convert to what you will order: Multiply cubic metres by 1.308 for cubic yards, or divide cubic feet by 27. For bagged mix, divide the volume by the yield printed on one bag.
+
+Worked example (metric):
+A 4 m × 3 m slab, 100 mm thick: 4 × 3 × 0.1 = 1.2 m³. With 10 % waste, order about 1.3 m³.
+
+Worked example (US units):
+A 13 ft × 10 ft slab, 4 in thick: 13 × 10 × 0.333 = 43.3 cu ft = 1.6 cu yd. With 10 % waste, order about 1.8 cu yd.
+
+Do it with Metre: Site calculator (Metre Pro)
+- Measure the length and width of the slab with the Area tool, or tap its corners.
+- Open the concrete calculator and enter the thickness.
+- Metre gives the volume in m³ (or cubic yards) and the number of bags.
+The site calculator, with concrete, tiles, stairs and slope, is part of Metre Pro. The formula above works with any tape.
+
+How accurate is this? Concrete volumes are estimates. Ground that is not flat, edge forms and spillage change the amount, and concrete cannot be returned, so round up.
+
+Questions:
+Q: How do I calculate cubic metres of concrete?
+A: Multiply length by width by thickness, all in metres. A 4 m × 3 m slab 0.1 m thick is 1.2 m³.
+Q: How do I convert m³ to cubic yards?
+A: Multiply by 1.308. One cubic yard is 27 cubic feet.
+Q: How much extra should I order?
+A: Add 5 to 10 % for waste and uneven ground.
+Q: How many bags of concrete for a 10 ft × 10 ft slab?
+A: A 10 ft × 10 ft slab 4 in thick is 33.3 cu ft. An 80 lb (36 kg) bag of premixed concrete yields about 0.6 cu ft (0.017 m³), so you need about 56 bags, or around 60 with waste. Check the yield printed on your bag, because brands differ.
+
+## How to take body measurements for clothes
+URL: https://faruksengul.github.io/github.io/metre/guides/measure-your-body-for-clothes.html
+Updated: 2026-10-26
+
+Short answer: Measure over light clothing, standing relaxed with feet together. Keep the tape level all the way round, snug but not tight, and work from the top down: neck, shoulders, chest, waist, hips, then arms and legs. Ask someone to help, because measuring yourself twists the tape, and write each number down at once.
+
+What you need:
+- A soft tape measure (cm and inches)
+- A helper
+- Light, fitted clothing
+
+Steps:
+1. Neck and shoulders: Wrap the tape round the base of the neck, where a collar sits, with one finger under the tape. Measure across the back from one shoulder tip to the other. The shoulder tip is the bony point where the arm begins.
+2. Chest and waist: Wrap the tape round the fullest part of the chest, under the arms, level across the back, breathing normally. For the waist, find the natural waist, the narrowest part just above the belly button, and wrap the tape round it without pulling in.
+3. Hips and thighs: Stand with feet together and wrap the tape round the fullest part of the hips and seat. Check in a mirror that the tape is level. For the thigh, measure the fullest part just below the crotch.
+4. Arms: For the sleeve, start at the shoulder tip with the arm relaxed and slightly bent, and measure over the elbow down to the wrist bone. For the upper arm, wrap the tape round the fullest part with the arm relaxed.
+5. Legs: For the inseam, measure from the crotch down the inside of the leg to the ankle bone. Easier: measure the inside seam of trousers that fit well. For the outseam, measure from the waist down the outside of the leg to the ankle bone.
+
+Tips tailors repeat:
+Round to the nearest half centimetre (or quarter inch) and write the number down at once.
+Measure twice.
+Measure the same person in the same clothing each time.
+For children, measure again before a purchase, because they grow.
+
+Do it with Metre: Body measurements and client book (Metre Pro)
+- Open Body measurements and tap the i next to any measurement to see exactly where it goes.
+- Save the person, or add clients to the measurement book if you sew for others.
+- A size estimate from one photo is available as a starting point: enter the person's height, photograph them from two or three metres facing you, then correct any value with a tape.
+A size estimate from a photo is a starting point, not a fitting. Body measurements and the client book are part of Metre Pro.
+
+How accurate is this? A tape on the body is the reference for tailoring. A size estimate from a photo is an estimate that depends on pose, clothing and background. Check it against a tape before you cut fabric or order made-to-measure clothes.
+
+Questions:
+Q: Where do I measure my waist?
+A: At the natural waist: the narrowest part, just above the belly button. Wrap the tape round it without pulling in.
+Q: How snug should the tape be?
+A: Snug but not tight: you should be able to slide one finger under it.
+Q: Can a phone measure my body?
+A: A phone can estimate sizes from a photo as a starting point. For tailoring, use a tape and check the estimate against it.
+
+## How to measure your foot and find your shoe size at home
+URL: https://faruksengul.github.io/github.io/metre/guides/measure-your-feet-and-find-your-shoe-size.html
+Updated: 2026-10-26
+
+Short answer: Stand on a sheet of paper with your heel against a wall, mark the tip of the longest toe, and measure from the wall to the mark. Do both feet in the evening and use the longer one. Convert the length to a size with the brand's chart, because sizes differ between brands. Between two sizes, choose the larger.
+
+What you need:
+- A sheet of paper, a pen and a ruler or tape
+- A wall and a flat floor
+- The evening, when feet are largest
+
+Steps:
+1. Set up: Tape a sheet of paper to a hard floor with one edge against a wall. Wear the socks you usually wear with the shoes.
+2. Stand on the paper: Stand with your heel against the wall and your weight evenly on both feet.
+3. Mark the longest toe: Mark the tip of the longest toe. It is not always the big toe.
+4. Measure the length: Measure from the wall to the mark in millimetres. Repeat for the other foot.
+5. Convert with the brand's chart: Use the longer foot and the size chart of the brand you are buying. If you are between two sizes, choose the larger one.
+
+Why the evening:
+Feet swell during the day, so measuring in the evening avoids buying shoes that are tight by the afternoon.
+
+Do it with Metre: Shoe size (Metre Pro)
+- Open Shoe size and stand on a sheet of paper with your heel against a wall.
+- Measure from the wall to the tip of the longest toe with the tape tool, or with the camera.
+- Metre converts the length to EU, UK and US sizes.
+Measure both feet in the evening and use the longer one. Shoe size is part of Metre Pro.
+
+How accurate is this? A foot length measured with a phone is an estimate, and brands cut shoes differently. Treat the converted size as a starting point and check the brand's own chart and return policy.
+
+Questions:
+Q: How do I measure my foot length?
+A: Stand with your heel against a wall on a sheet of paper, mark the longest toe and measure from the wall to the mark.
+Q: What if I am between two sizes?
+A: Choose the larger size, especially for closed shoes.
+Q: Why do sizes differ between brands?
+A: Each brand uses its own lasts and charts. Always check the maker's size guide.
+
+## Which iPhones and iPads have LiDAR, and do you need it to measure?
+URL: https://faruksengul.github.io/github.io/metre/guides/does-my-iphone-have-lidar.html
+Updated: 2026-10-26
+
+Short answer: LiDAR scanners are found on the iPhone 12 Pro and Pro Max and later Pro and Pro Max models and on iPad Pro models from 2020 onward. Regular iPhones and other iPads do not have one. You do not need LiDAR to measure: ARKit works on every iPhone that runs iOS 17, and in Metre every tool except the automatic 3D room scan works without it.
+
+What you need:
+- Your device's model name (Settings → General → About)
+
+Steps:
+1. Check the model name: Open Settings → General → About. A LiDAR iPhone has Pro in its name (iPhone 12 Pro or a later Pro model). An iPad Pro from 2020 or later has one too.
+2. Look at the back: A LiDAR scanner is a small dark circle near the camera lenses, next to the flash.
+3. Know what it adds: A depth sensor: surfaces are found faster, dim rooms work better and results are usually more consistent. The device can also scan a room in 3D.
+4. Know what you can do without it: Length, height, area, box and volume, angle, circle, door check, home survey by tapping corners, Smart scan, the calculators and body tools all work without LiDAR in Metre.
+5. Know the one exception: The automatic 3D room scan in Metre uses Apple's RoomPlan, which requires a LiDAR scanner.
+
+Can an iPhone measure without LiDAR?:
+Yes. ARKit combines the camera image with the motion sensors to find surfaces and to measure between points. Without LiDAR, good light and a textured surface matter more.
+
+Do it with Metre: Home survey and 3D room scan
+- On a non-LiDAR device, use Home survey to tap the corners of each room and get the same plan.
+- On a LiDAR device, open 3D room scan, tap record, point at the walls and walk slowly round the room.
+- Open the doors and turn on the lights so the openings are found.
+3D room scan, with USDZ and DXF export, is part of Metre Pro and needs a LiDAR iPhone or iPad. Length, height and level work on every supported device.
+
+How accurate is this? LiDAR improves how reliably a phone finds surfaces, but results are still estimates. Metre shows a margin of error and a quality label on every result, with or without LiDAR.
+
+Questions:
+Q: Does the iPhone 15 have LiDAR?
+A: Only the Pro models (iPhone 15 Pro and Pro Max) have a LiDAR scanner. The iPhone 15 and 15 Plus do not.
+Q: Do I need LiDAR for a floor plan?
+A: No. In Metre, tapping the corners of each room gives a floor plan on any iPhone or iPad with iOS 17 or later. LiDAR only adds the automatic 3D room scan.
+Q: Does the iPad have LiDAR?
+A: iPad Pro models from 2020 onward do. Other iPads do not.
+
+## How to use your iPhone as a spirit level
+URL: https://faruksengul.github.io/github.io/metre/guides/use-your-iphone-as-a-spirit-level.html
+Updated: 2026-10-26
+
+Short answer: Lay the phone on the surface, or hold its long edge against a frame or wall, and adjust until the bubble is centred and the angle reads zero. If the camera bump tilts the phone, put it on a surface you know is flat and tap the zero button before you use it.
+
+What you need:
+- Any iPhone or iPad
+- A flat, hard surface to zero on
+
+Steps:
+1. Zero the level first: Put the phone on a surface you know is flat, such as a granite worktop, and tap the zero button. This removes the error from the camera bump.
+2. Lay it on the surface: For a shelf, worktop or floor, lay the phone flat and watch the bubble.
+3. Or hold the edge against it: For a picture frame or a wall, hold the phone's long edge along the top of the frame.
+4. Adjust until the angle reads zero: When the bubble is centred and the angle reads 0°, the surface is level.
+5. Check with a plumb for walls: Hold the phone upright against the wall to check it is vertical.
+
+In the UK and Australia:
+In the UK and Australia a bubble level is usually called a spirit level, and in the US a level. Same tool.
+
+Do it with Metre: Level and plumb (Metre Pro)
+- Open Level and lay the phone on the surface or hold its edge against a wall or frame.
+- Adjust until the bubble is centred and the angle reads zero.
+- Camera bump? Tap Zero here on a surface you know is flat.
+Level and plumb are part of Metre Pro. Hanging a picture: hold the phone's edge along the top of the frame.
+
+How accurate is this? A phone level is handy for shelves and frames. For a tiled floor, a long run of cabinets or anything structural, check with a proper spirit level or a laser level.
+
+Questions:
+Q: Can an iPhone be used as a level?
+A: Yes. The motion sensors read the tilt and the app shows a bubble and an angle.
+Q: How do I calibrate a phone level?
+A: Put the phone on a surface you know is flat, and zero it. Turn the phone round and check the reading is the same.
+Q: Does it need Metre Pro?
+A: Yes. The level and plumb are part of Metre Pro, where the monthly plan starts with a 3-day free trial.
