@@ -44,7 +44,7 @@ A: There is no single number. The item has to pass with its two smallest dimensi
 Q: Can I measure a door with an iPhone that has no LiDAR?
 A: Yes. Door check works on any iPhone or iPad with iOS 17 or later. A LiDAR scanner, on Pro models, finds surfaces faster and usually more reliably.
 Q: Does Door check need Metre Pro?
-A: Yes. Metre needs Metre Pro to measure, and Door check is part of it. The monthly plan starts with a 3-day free trial; a weekly plan and a one-time lifetime purchase are also available.
+A: Yes. Metre needs Metre Pro to measure, and Door check is part of it. Metre Pro is an auto-renewing weekly or monthly subscription, or a one-time lifetime purchase. Cancel anytime in your Apple Account settings.
 
 ## Will my sofa fit through the door? How to check before you buy
 URL: https://faruksengul.github.io/github.io/metre/guides/will-my-sofa-fit-through-the-door.html
@@ -134,7 +134,7 @@ A: Multiply by 10.764. A 15 m² room is 161.5 sq ft. To go the other way, multip
 Q: Can an iPhone measure a room without LiDAR?
 A: Yes. Home survey works on any iPhone or iPad with iOS 17 or later. Only the automatic 3D room scan needs a LiDAR scanner.
 Q: Does Home survey need Metre Pro?
-A: Yes. Home survey is part of Metre Pro, which also includes the Length tool for single walls. The monthly plan starts with a 3-day free trial.
+A: Yes. Home survey is part of Metre Pro, which also includes the Length tool for single walls. Metre Pro is an auto-renewing weekly or monthly subscription, or a one-time lifetime purchase. Cancel anytime in your Apple Account settings.
 
 ## How to make a floor plan of your home with an iPhone
 URL: https://faruksengul.github.io/github.io/metre/guides/make-a-floor-plan-of-your-home-with-iphone.html
@@ -273,7 +273,7 @@ Questions:
 Q: Can an iPhone measure a person's height?
 A: Yes. Frame the person head to toe from two or three steps away and the app outlines them and reads the height. Confirm with a tape for anything critical.
 Q: Does it need Metre Pro?
-A: Yes. Metre needs Metre Pro to measure, including the Height tool. The monthly plan starts with a 3-day free trial; a weekly plan and a one-time lifetime purchase are also available.
+A: Yes. Metre needs Metre Pro to measure, including the Height tool. Metre Pro is an auto-renewing weekly or monthly subscription, or a one-time lifetime purchase. Cancel anytime in your Apple Account settings.
 Q: How do I track a child's growth?
 A: Measure against the same wall at the same time of day every few months and save each result. The child height tracker in Metre Pro keeps a dated history and draws a growth curve on your device.
 Q: Does it need LiDAR?
@@ -595,4 +595,4 @@ A: Yes. The motion sensors read the tilt and the app shows a bubble and an angle
 Q: How do I calibrate a phone level?
 A: Put the phone on a surface you know is flat, and zero it. Turn the phone round and check the reading is the same.
 Q: Does it need Metre Pro?
-A: Yes. The level and plumb are part of Metre Pro, where the monthly plan starts with a 3-day free trial.
+A: Yes. The level and plumb are part of Metre Pro. Metre Pro is an auto-renewing weekly or monthly subscription, or a one-time lifetime purchase. Cancel anytime in your Apple Account settings.
